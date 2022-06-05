@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GetVoIP.spritefont</Source>
+      <Name>GetVoIP</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GetVoIP.xnb</Output>
+      <Time>2014-11-03T03:00:27.6648554+04:00</Time>
+    </Item>
+    <Item>
+      <Source>14.png</Source>
+      <Name>14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\14.xnb</Output>
+      <Time>2014-10-31T04:01:16.4098451+04:00</Time>
+    </Item>
+    <Item>
+      <Source>health0.png</Source>
+      <Name>health0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\health0.xnb</Output>
+      <Time>2014-10-31T03:56:08.0354313+04:00</Time>
+    </Item>
+    <Item>
+      <Source>health1.png</Source>
+      <Name>health1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\health1.xnb</Output>
+      <Time>2014-10-31T03:56:08.0354313+04:00</Time>
+    </Item>
+    <Item>
+      <Source>health2.png</Source>
+      <Name>health2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\health2.xnb</Output>
+      <Time>2014-10-31T03:56:08.0354313+04:00</Time>
+    </Item>
+    <Item>
+      <Source>health3.png</Source>
+      <Name>health3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\health3.xnb</Output>
+      <Time>2014-10-31T03:56:08.0354313+04:00</Time>
+    </Item>
+    <Item>
+      <Source>health4.png</Source>
+      <Name>health4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\health4.xnb</Output>
+      <Time>2014-10-31T03:56:08.0354313+04:00</Time>
+    </Item>
+    <Item>
+      <Source>health5.png</Source>
+      <Name>health5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\health5.xnb</Output>
+      <Time>2014-10-31T03:56:08.0354313+04:00</Time>
+    </Item>
+    <Item>
+      <Source>auto1.png</Source>
+      <Name>auto1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\auto1.xnb</Output>
+      <Time>2014-11-01T04:50:47.9013604+04:00</Time>
+    </Item>
+    <Item>
+      <Source>helltop.png</Source>
+      <Name>helltop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\helltop.xnb</Output>
+      <Time>2014-11-02T19:29:35.5269172+04:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuBut1.png</Source>
+      <Name>MenuBut1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\MenuBut1.xnb</Output>
+      <Time>2014-11-03T01:58:08.0773276+04:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuBut2.png</Source>
+      <Name>MenuBut2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\MenuBut2.xnb</Output>
+      <Time>2014-11-03T01:58:08.0773276+04:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuBut3.png</Source>
+      <Name>MenuBut3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\MenuBut3.xnb</Output>
+      <Time>2014-11-03T01:58:08.1242269+04:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuBut4.png</Source>
+      <Name>MenuBut4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\MenuBut4.xnb</Output>
+      <Time>2014-11-03T01:58:08.1242269+04:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOverBut1.png</Source>
+      <Name>GameOverBut1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOverBut1.xnb</Output>
+      <Time>2014-11-03T04:53:05.9328522+04:00</Time>
+    </Item>
+    <Item>
+      <Source>HelpBut1.png</Source>
+      <Name>HelpBut1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\HelpBut1.xnb</Output>
+      <Time>2014-11-03T01:58:53.266973+04:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOverImage.png</Source>
+      <Name>GameOverImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GameOverImage.xnb</Output>
+      <Time>2014-11-03T04:54:13.2054024+04:00</Time>
+    </Item>
+    <Item>
+      <Source>lvl_1.png</Source>
+      <Name>lvl_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\lvl_1.xnb</Output>
+      <Time>2014-11-03T02:42:07.6491109+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Autor.png</Source>
+      <Name>Autor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Autor.xnb</Output>
+      <Time>2014-11-23T20:43:44.3262507+04:00</Time>
+    </Item>
+    <Item>
+      <Source>pr_1.png</Source>
+      <Name>pr_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\pr_1.xnb</Output>
+      <Time>2014-11-05T03:13:57.9322994+04:00</Time>
+    </Item>
+    <Item>
+      <Source>pr_1_1.png</Source>
+      <Name>pr_1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\pr_1_1.xnb</Output>
+      <Time>2014-11-05T03:13:57.9916622+04:00</Time>
+    </Item>
+    <Item>
+      <Source>pr_2.png</Source>
+      <Name>pr_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\pr_2.xnb</Output>
+      <Time>2014-11-05T03:34:18.8194847+04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion1.png</Source>
+      <Name>explosion1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\explosion1.xnb</Output>
+      <Time>2014-11-05T03:55:43.2387709+04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion2.png</Source>
+      <Name>explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\explosion2.xnb</Output>
+      <Time>2014-11-05T03:55:43.2407718+04:00</Time>
+    </Item>
+    <Item>
+      <Source>InterfaceImage.png</Source>
+      <Name>InterfaceImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\InterfaceImage.xnb</Output>
+      <Time>2014-11-09T13:44:48.625445+04:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuImage.png</Source>
+      <Name>MenuImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\MenuImage.xnb</Output>
+      <Time>2014-11-09T13:44:48.625445+04:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseBut2.png</Source>
+      <Name>PauseBut2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\PauseBut2.xnb</Output>
+      <Time>2014-11-05T05:39:37.7576186+04:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseImage.png</Source>
+      <Name>PauseImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\PauseImage.xnb</Output>
+      <Time>2014-11-09T13:44:48.6566699+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio1.png</Source>
+      <Name>radio1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio1.xnb</Output>
+      <Time>2014-11-05T21:43:59.1837811+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio2.png</Source>
+      <Name>radio2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio2.xnb</Output>
+      <Time>2014-11-05T21:43:59.1857817+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio3.png</Source>
+      <Name>radio3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio3.xnb</Output>
+      <Time>2014-11-05T21:43:59.1867825+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio4.png</Source>
+      <Name>radio4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio4.xnb</Output>
+      <Time>2014-11-05T21:43:59.1877823+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio5.png</Source>
+      <Name>radio5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio5.xnb</Output>
+      <Time>2014-11-05T21:43:59.1887839+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio6.png</Source>
+      <Name>radio6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio6.xnb</Output>
+      <Time>2014-11-05T21:43:59.1977897+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio7.png</Source>
+      <Name>radio7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio7.xnb</Output>
+      <Time>2014-11-05T22:18:34.4742544+04:00</Time>
+    </Item>
+    <Item>
+      <Source>health.png</Source>
+      <Name>health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\health.xnb</Output>
+      <Time>2014-11-05T23:00:36.4763186+04:00</Time>
+    </Item>
+    <Item>
+      <Source>HelpImage.png</Source>
+      <Name>HelpImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\HelpImage.xnb</Output>
+      <Time>2014-11-06T06:36:28.1670145+04:00</Time>
+    </Item>
+    <Item>
+      <Source>explode.wav</Source>
+      <Name>explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\explode.xnb</Output>
+      <Time>2014-11-01T06:54:28.5089341+04:00</Time>
+    </Item>
+    <Item>
+      <Source>soundDestroyer.wav</Source>
+      <Name>soundDestroyer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\soundDestroyer.xnb</Output>
+      <Time>2014-11-02T19:12:30.8659161+04:00</Time>
+    </Item>
+    <Item>
+      <Source>break.wav</Source>
+      <Name>break</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\break.xnb</Output>
+      <Time>2014-11-05T04:10:15.7339436+04:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthSound.wav</Source>
+      <Name>HealthSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\HealthSound.xnb</Output>
+      <Time>2014-11-05T23:10:26.7472664+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio1s.mp3</Source>
+      <Name>radio1s</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio1s.xnb</Output>
+      <Extra>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio1s.wma</Extra>
+      <Time>2014-11-05T22:20:33.9220129+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio2s.mp3</Source>
+      <Name>radio2s</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio2s.xnb</Output>
+      <Extra>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio2s.wma</Extra>
+      <Time>2014-11-05T22:20:33.9220129+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio3s.mp3</Source>
+      <Name>radio3s</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio3s.xnb</Output>
+      <Extra>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio3s.wma</Extra>
+      <Time>2014-11-05T22:20:33.9376126+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio4s.mp3</Source>
+      <Name>radio4s</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio4s.xnb</Output>
+      <Extra>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio4s.wma</Extra>
+      <Time>2014-11-05T22:20:33.9376126+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio5s.mp3</Source>
+      <Name>radio5s</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio5s.xnb</Output>
+      <Extra>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio5s.wma</Extra>
+      <Time>2014-11-05T22:20:33.9376126+04:00</Time>
+    </Item>
+    <Item>
+      <Source>radio6s.mp3</Source>
+      <Name>radio6s</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio6s.xnb</Output>
+      <Extra>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\radio6s.wma</Extra>
+      <Time>2014-11-05T22:20:33.9532385+04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4F56F5E3-8501-457F-B472-CB27C83F53DF}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3Content\</RootDirectory>
+      <LoggerRootDirectory>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-27T21:04:55.2195858+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

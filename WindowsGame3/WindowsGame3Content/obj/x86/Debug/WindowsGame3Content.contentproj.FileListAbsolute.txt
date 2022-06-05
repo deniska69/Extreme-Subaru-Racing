@@ -1,0 +1,2 @@
+D:\My Documents\University II\Programming\WindowsGame3\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
+D:\My Documents\University II\Programming\Курсовая\ESR\WindowsGame3\WindowsGame3Content\obj\x86\Debug\WindowsGame3Content.contentprojResolveAssemblyReference.cache
